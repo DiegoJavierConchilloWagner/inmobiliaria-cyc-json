@@ -2,6 +2,8 @@
     "enConstruccion": 
     [   
         {
+            "id": 1,
+            "categoria": "enConstruccion",
             "imagen": "./img/canitashome1.jpeg",
             "precio": "Venta - U$S50.000",
             "titulo": "Cañitas",
@@ -10,6 +12,8 @@
             "enlace": "Más Información"
         },
         {
+            "id": 2,
+            "categoria": "enConstruccion",
             "imagen": "./img/canitashome1.jpeg",
             "precio": "Venta - U$S50.000",
             "titulo": "Cañitas",
@@ -18,6 +22,8 @@
             "enlace": "Más Información"
         },
         {
+            "id": 3,
+            "categoria": "enConstruccion",
             "imagen": "./img/canitashome1.jpeg",
             "precio": "Venta - U$S50.000",
             "titulo": "Cañitas",
@@ -26,10 +32,12 @@
             "enlace": "Más Información"
         }
     ],
-    
+
     "proximamente":
     [
         {
+            "id": 1,
+            "categoria": "proximamente",
             "imagen": "./img/canitashome1.jpeg",
             "precio": "Venta - U$S50.000",
             "titulo": "Cañitas",
@@ -38,6 +46,8 @@
             "enlace": "Más Información"
         },
         {
+            "id": 2,
+            "categoria": "proximamente",
             "imagen": "./img/canitashome1.jpeg",
             "precio": "Venta - U$S50.000",
             "titulo": "Cañitas",
@@ -46,6 +56,8 @@
             "enlace": "Más Información"
         },
         {
+            "id": 3,
+            "categoria": "proximamente",
             "imagen": "./img/canitashome1.jpeg",
             "precio": "Venta - U$S50.000",
             "titulo": "Cañitas",
