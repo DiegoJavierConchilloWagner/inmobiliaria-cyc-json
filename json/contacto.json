@@ -1,0 +1,19 @@
+[{
+        "testimonio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Laoreet aliquam egestas quis est nibh congue.",
+        "imagen": "./img/imgnosotros.jpg",
+        "alt": "",
+        "nombre": "Mariana"
+    },
+    {
+        "testimonio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Laoreet aliquam egestas quis est nibh congue.",
+        "imagen": "./img/imgnosotros.jpg",
+        "alt": "",
+        "nombre": "Mariana"
+    },
+    {
+        "testimonio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Laoreet aliquam egestas quis est nibh congue.",
+        "imagen": "./img/imgnosotros.jpg",
+        "alt": "",
+        "nombre": "Mariana"
+    }
+]
