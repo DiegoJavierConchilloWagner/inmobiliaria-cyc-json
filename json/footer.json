@@ -1,3 +1,10 @@
-[
-    {"titulo_newsletter": "newsletter", "texto_newsletter": "Suscribite para recibir novedades y promociones.", "email_placeholder": "ingresá tu email", "xmlns": "http://www.w3.org/2000/svg", "path_d": "M8.91196 9.9998H2.99996L1.02296 2.1348C1.0103 2.0891 1.00259 2.04216 0.999959 1.9948C0.977959 1.2738 1.77196 0.773804 2.45996 1.1038L21 9.9998L2.45996 18.8958C1.77996 19.2228 0.995959 18.7368 0.999959 18.0288C1.00198 17.9655 1.0131 17.9029 1.03296 17.8428L2.49996 12.9998", "titulo_nosotros": "Nosotros", "texto_nosotros": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Risus porttitor turpis sit vehicula faucibus enim, malesuada felis. Eget pharetra, aliquet ac sollicitudin augue. Morbi accumsan, lorem ut ut urna, ipsum elementum.", "titulo_links": "Links", "href": "", "a_inicio": "Inicio", "a_proyectos": "Proyectos", "a_inversiones": "Inversiones", "a_nosotros": "Nosotros", "a_preguntas_frecuentes": "Preguntas frecuentes", "a_contacto": "Contacto", "h2_contacto": "Contacto", "class_email_1": "fa", "class_email_2": "fa-envelope", "email": "Consultas@asdgsa.com", "class_telefono_1": "fas", "class_telefono_2": "fa-phone-volume","telefono": "1130743823", "class_direccion_1": "fas", "class_direccion_2": "fa-map-marker-alt", "direccion": "San Miguel, Bs As.", "titulo_redes": "Nuestras redes", "class_facebook_1": "fab", "class_facebook_2": "fa-facebook", "class_facebook_3": "fa-2x", "class_instagram_1": "fab", "class_instagram_2": "fa-instagram", "class_instagram_3": "fa-2x", "class_youtube_1": "fa", "class_youtube_2": "fa-youtube", "class_youtube_3": "fa-2x"}
-]
+[{
+    "titulo_nosotros": "Nosotros",
+    "texto_nosotros": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Risus porttitor turpis sit vehicula faucibus enim, malesuada felis. Eget pharetra, aliquet ac sollicitudin augue. Morbi accumsan, lorem ut ut urna, ipsum elementum.",
+    "email": "Consultas@asdgsa.com",
+    "telefono": "1130743823",
+    "direccion": "San Miguel, Bs As.",
+    "facebooklink": "",
+    "instagramlink": "",
+    "youtubelink": ""
+}]
