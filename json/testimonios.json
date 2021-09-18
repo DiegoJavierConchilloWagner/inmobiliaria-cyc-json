@@ -1,5 +1,16 @@
-[
-    {"nombre": "Mariana", "testimonio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Laoreet aliquam egestas quis est nibh congue venenatis duis.", "img": "./img/imgnosotros.jpg"},
-    {"nombre": "Juan", "testimonio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Laoreet aliquam egestas quis est nibh congue venenatis duis. Aenean elit magna ultricies sed.", "img": "./img/imgnosotros.jpg"},
-    {"nombre": "Martín", "testimonio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Laoreet aliquam egestas quis est nibh congue venenatis duis.", "img": "./img/imgnosotros.jpg"}
+[{
+        "nombre": "Mariana",
+        "testimonio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Laoreet aliquam egestas quis est nibh congue venenatis duis.",
+        "img": "./img/imgnosotros.jpg"
+    },
+    {
+        "nombre": "Juan",
+        "testimonio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Laoreet aliquam egestas quis est nibh congue venenatis duis. Aenean elit magna ultricies sed.",
+        "img": "./img/imgnosotros.jpg"
+    },
+    {
+        "nombre": "Martín",
+        "testimonio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Laoreet aliquam egestas quis est nibh congue venenatis duis.",
+        "img": "./img/imgnosotros.jpg"
+    }
 ]
