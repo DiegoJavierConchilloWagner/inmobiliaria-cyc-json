@@ -1,0 +1,5 @@
+[
+    {"class_icono_1": "fas", "class_icono_2": "fa-mug-hot", "clave": 7624, "descripcion": "cafes servidos a nuestros clientes"},
+    {"class_icono_1": "fas", "class_icono_2": "fa-key", "clave": 7624, "descripcion": "Hogares entregados"},
+    {"class_icono_1": "far", "class_icono_2": "fa-building", "clave": 7624, "descripcion": "Proyectos terminados"}
+]
