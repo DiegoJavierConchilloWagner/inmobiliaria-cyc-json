@@ -9,7 +9,17 @@
             "titulo": "Cañitas",
             "informacion": "2,3 y 4 ambientes",
             "domicilio": "Italia 2131, San Miguel",
-            "enlace": "Más Información"
+            "enlace": "Más Información",
+            "DESDE ACA COMIENZA DESCRIPCION DE PROYECTO": "",
+            "nombre": "Cañitas",
+            "altura": "1450",
+            "ubicacion": "San miguel, Buenos Aires",
+            "ambientes": "1234",
+            "pisos":"10",
+            "dtos": "50",
+            "dtosPorPiso":"5",
+            "informacionGeneral": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Senectusdictum fermentum phasellus tortor, nisl vehicula tortor viverra.Elementum mauris at amet, tristique gravida vitae morbi duis.Pharetra commodo facilisi sit elementum hac pretium non neque.Enim auctor tempor tristique et urna eleifend."
+
         },
         {
             "id": 2,
