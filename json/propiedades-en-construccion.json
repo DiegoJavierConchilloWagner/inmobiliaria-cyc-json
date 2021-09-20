@@ -14,7 +14,7 @@
             "nombre": "Cañitas",
             "altura": "1450",
             "ubicacion": "San miguel, Buenos Aires",
-            "ambientes": "1234",
+            "ambientes": "1 | 2 | 3 | 4 ",
             "pisos":"10",
             "dtos": "50",
             "dtosPorPiso":"5",
