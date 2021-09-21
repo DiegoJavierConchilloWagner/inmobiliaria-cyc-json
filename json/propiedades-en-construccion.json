@@ -4,6 +4,36 @@
         {
             "id": 1,
             "categoria": "enConstruccion",
+            "sliderImagen":[
+                {
+                    "img": "https://res.cloudinary.com/doejsqlbl/image/upload/v1626420607/reactJs/Carrousel/slider2_clljde.jpg",
+                    "alt": ""
+                },
+                {
+                    "img": "https://res.cloudinary.com/doejsqlbl/image/upload/v1626420607/reactJs/Carrousel/slider2_clljde.jpg",
+                    "alt": ""
+                },
+                {
+                    "img": "https://res.cloudinary.com/doejsqlbl/image/upload/v1626420607/reactJs/Carrousel/slider2_clljde.jpg",
+                    "alt": ""
+                },
+                {
+                    "img": "https://res.cloudinary.com/doejsqlbl/image/upload/v1626420607/reactJs/Carrousel/slider2_clljde.jpg",
+                    "alt": ""
+                },
+                {
+                    "img": "https://res.cloudinary.com/doejsqlbl/image/upload/v1626420607/reactJs/Carrousel/slider2_clljde.jpg",
+                    "alt": ""
+                },
+                {
+                    "img": "https://res.cloudinary.com/doejsqlbl/image/upload/v1626420607/reactJs/Carrousel/slider2_clljde.jpg",
+                    "alt": ""
+                },
+                {
+                    "img": "https://res.cloudinary.com/doejsqlbl/image/upload/v1626420607/reactJs/Carrousel/slider2_clljde.jpg",
+                    "alt": ""
+                }
+            ],
             "imagen": "./img/canitashome1.jpeg",
             "precio": "Venta - U$S50.000",
             "titulo": "Cañitas",
@@ -14,7 +44,7 @@
             "nombre": "Cañitas",
             "altura": "1450",
             "ubicacion": "San miguel, Buenos Aires",
-            "ambientes": "1 | 2 | 3 | 4 ",
+            "ambientes": "1 | 2 | 3 | 4",
             "pisos":"10",
             "dtos": "50",
             "dtosPorPiso":"5",
