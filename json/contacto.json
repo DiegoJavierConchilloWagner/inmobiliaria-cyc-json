@@ -1,19 +1,38 @@
 [{
-        "testimonio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Laoreet aliquam egestas quis est nibh congue.",
-        "imagen": "./img/imgnosotros.jpg",
-        "alt": "",
-        "nombre": "Mariana"
-    },
-    {
-        "testimonio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Laoreet aliquam egestas quis est nibh congue.",
-        "imagen": "./img/imgnosotros.jpg",
-        "alt": "",
-        "nombre": "Mariana"
-    },
-    {
-        "testimonio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Laoreet aliquam egestas quis est nibh congue.",
-        "imagen": "./img/imgnosotros.jpg",
-        "alt": "",
-        "nombre": "Mariana"
-    }
-]
+    "formulario":
+    [
+        {
+            "titulo": "Mantengámonos en contacto",
+            "subtitulo": "Puedes enviarnos un formulario con cualquier consulta y te responderemos lo mas pronto posible!",
+            "direccion": "Honduras 3888, Palermo, Buenos Aires",
+            "mail": "lorem@ipsum.com",
+            "telefono": "+54 11 2008-8798",
+            "facebook": "http://www.facebook.com",
+            "instagram": "http://www.facebook.com",
+            "youtube": "http://www.facebook.com"
+        }
+    ],
+
+
+    "testimonios":
+    [
+        {
+            "testimonio": "“Lorem ipsum dolor sit amet, consectetur adipiscing elit. Laoreet aliquam egestas quis est nibh congue.”",
+            "imagen": "./img/imgnosotros.jpg",
+            "alt": "",
+            "nombre": "Mariana"
+        },
+        {
+            "testimonio": "“Lorem ipsum dolor sit amet, consectetur adipiscing elit. Laoreet aliquam egestas quis est nibh congue.”",
+            "imagen": "./img/imgnosotros.jpg",
+            "alt": "",
+            "nombre": "Mariana"
+        },
+        {
+            "testimonio": "“Lorem ipsum dolor sit amet, consectetur adipiscing elit. Laoreet aliquam egestas quis est nibh congue.”",
+            "imagen": "./img/imgnosotros.jpg",
+            "alt": "",
+            "nombre": "Mariana"
+        }
+    ]
+}]
