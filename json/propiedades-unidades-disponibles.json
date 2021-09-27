@@ -4,15 +4,15 @@
         "categoria": "disponibles",
         "sliderImagen":[
             {
-                "img": "https://res.cloudinary.com/doejsqlbl/image/upload/v1626420608/reactJs/Carrousel/slider_hu6g7i.jpg",
+                "img": "./img/Slider1.jpg",
                 "alt": ""
             },
             {
-                "img": "https://res.cloudinary.com/doejsqlbl/image/upload/v1626420607/reactJs/Carrousel/slider2_clljde.jpg",
+                "img": "./img/Slider3.jpg",
                 "alt": ""
             },
             {
-                "img": "https://res.cloudinary.com/doejsqlbl/image/upload/v1626420608/reactJs/Carrousel/slider1_kgtrb7.jpg",
+                "img": "./img/Slider1.jpg",
                 "alt": ""
             }
         ],
@@ -56,15 +56,15 @@
         "categoria": "disponibles",
         "sliderImagen":[
             {
-                "img": "https://res.cloudinary.com/doejsqlbl/image/upload/v1626420608/reactJs/Carrousel/slider_hu6g7i.jpg",
+                "img": "./img/Slider1.jpg",
                 "alt": ""
             },
             {
-                "img": "https://res.cloudinary.com/doejsqlbl/image/upload/v1626420607/reactJs/Carrousel/slider2_clljde.jpg",
+                "img": "./img/Slider3.jpg",
                 "alt": ""
             },
             {
-                "img": "https://res.cloudinary.com/doejsqlbl/image/upload/v1626420608/reactJs/Carrousel/slider1_kgtrb7.jpg",
+                "img": "./img/Slider1.jpg",
                 "alt": ""
             }
         ],
@@ -108,15 +108,15 @@
         "categoria": "disponibles",
         "sliderImagen":[
             {
-                "img": "https://res.cloudinary.com/doejsqlbl/image/upload/v1626420608/reactJs/Carrousel/slider_hu6g7i.jpg",
+                "img": "./img/Slider1.jpg",
                 "alt": ""
             },
             {
-                "img": "https://res.cloudinary.com/doejsqlbl/image/upload/v1626420607/reactJs/Carrousel/slider2_clljde.jpg",
+                "img": "./img/Slider3.jpg",
                 "alt": ""
             },
             {
-                "img": "https://res.cloudinary.com/doejsqlbl/image/upload/v1626420608/reactJs/Carrousel/slider1_kgtrb7.jpg",
+                "img": "./img/Slider1.jpg",
                 "alt": ""
             }
         ],
