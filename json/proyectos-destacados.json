@@ -1,5 +1,34 @@
-[
-    {"imagen": "./img/canitashome1.jpeg", "alt": "", "precio": "Venta - U$S50.000", "titulo": "Cañitas", "informacion": "2,3 y 4 ambientes", "domicilio": "Italia 2131, San Miguel", "enlace": "Más Información"},
-    {"imagen": "./img/canitashome1.jpeg", "alt": "", "precio": "Venta - U$S50.000", "titulo": "Cañitas", "informacion": "2,3 y 4 ambientes", "domicilio": "Italia 2131, San Miguel", "enlace": "Más Información"},
-    {"imagen": "./img/canitashome1.jpeg", "alt": "", "precio": "Venta - U$S50.000", "titulo": "Cañitas", "informacion": "2,3 y 4 ambientes", "domicilio": "Italia 2131, San Miguel", "enlace": "Más Información"} 
+[   {
+        "id": 1,
+        "categoria": "finalizados",
+        "imagen": "./img/canitashome1.jpeg",
+        "alt": "",
+        "precio": "Venta - U$S50.000",
+        "titulo": "Cañitas",
+        "informacion": "2,3 y 4 ambientes",
+        "domicilio": "Italia 2131, San Miguel",
+        "enlace": "Más Información"
+    },
+    {
+        "id": 2,
+        "categoria": "finalizados",
+        "imagen": "./img/canitashome1.jpeg",
+        "alt": "",
+        "precio": "Venta - U$S50.000",
+        "titulo": "Cañitas",
+        "informacion": "2,3 y 4 ambientes",
+        "domicilio": "Italia 2131, San Miguel",
+        "enlace": "Más Información"
+    },
+    {
+        "id": 3,
+        "categoria": "finalizados",
+        "imagen": "./img/canitashome1.jpeg",
+        "alt": "",
+        "precio": "Venta - U$S50.000",
+        "titulo": "Cañitas",
+        "informacion": "2,3 y 4 ambientes",
+        "domicilio": "Italia 2131, San Miguel",
+        "enlace": "Más Información"
+    }
 ]
